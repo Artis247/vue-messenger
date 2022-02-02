@@ -1,26 +1,2 @@
-# vue-messenger
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# vue-messnger" 
-"# vue-messnger" 
+Simple messenger for family.Implemented on the basis of VUE.JS + FIREBASE technology.
+Uploaded in PWA form to FIREBASE. The family is satisfied)
